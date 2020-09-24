@@ -1,18 +1,18 @@
 {
   "frontend": {
     "scoreEnabled": true,
-    "spellsEnabled": true,
-    "coachesEnabled": true,
+    "spellsEnabled": false,
+    "coachesEnabled": false,
     "blueTeam": {
-      "name": "Team Blue",
-      "score": 2,
+      "name": "Salziger Spucknapf",
+      "score": 0,
       "coach": "Coach Blue",
       "color": "rgb(0,151,196)"
     },
     "redTeam": {
-      "name": "Team Red",
-      "score": 1,
-      "coach": "Coach Red",
+      "name": "ECO White",
+      "score": 0,
+      "coach": "Löweh",
       "color": "rgb(222,40,70)"
     },
     "patch": "9.19"

@@ -1,0 +1,5 @@
+1. Backend starten (./npm start)
+
+2. Frontend starten (./layouts/europe/npm start)
+
+3. http://localhost:3000/?backend=ws://localhost:8999 einbinden
